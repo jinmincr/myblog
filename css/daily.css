@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.blank { height:200px;}
+
+#editor b { display:inline-block; margin-bottom:8px; color:#333;}
+#edit_title,#edit_body { margin-bottom:8px;}
+#edit_tag { margin-bottom:18px;}
+#editTitle,#editBody { border:1px solid #999; width:98%; padding:2px; font-size:16px;}
+#editTitle {}
+#editBody { height:300px;}
+#editTag { width:200px; height:24px; }
+#edit_button input { display:inline-block; background-color: #1072BA; border: 0px none; color: #FFF; border-radius: 4px;  cursor: pointer; font-size: 14px;  padding:6px 8px; margin-right:8px;}
